@@ -4,6 +4,7 @@ This repository holds the source code for CS 476 - Software Development Project 
 
 ### Youtube Presentation for [NoteMate](https://youtu.be/Ad-mclnXCyA)
 
+## To build from this repository, make sure you have npm installed. You must then npx create-react-app. Installing nodeJS and npm is mandatory
 
 
 # Getting Started with Create React App
