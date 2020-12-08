@@ -1,4 +1,4 @@
-# NoteMate Introduction
+# [NoteMate](https://notemate28.web.app/)
 
 This repository holds the source code for CS 476 - Software Development Project for the implementation of NoteMate. NoteMate is built with ReactJS, nodeJS and Firebase Database. It is a realtime shared course learning web application. NoteMate is meant to facilitate collaborative learning among students and professors where everyone gets a chance to collaborate on class materials using the shared textbook along with making use of chat box for each course to discuss course contents, have fun conversations and build relationships essential for before entering corporate life.
 
